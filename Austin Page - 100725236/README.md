@@ -1,4 +1,4 @@
-# Cloud Computing - Lab 1
+# Cloud Computing - Lab 2
 ## Austin Page - 100725236
 
 * [Videos](https://drive.google.com/drive/u/0/folders/14M-zb7rV6f_Texy4_uLAFmhBrGdWUe3N)
